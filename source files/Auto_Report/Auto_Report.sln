@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Report", "Auto_Report.csproj", "{40AA841F-4F2A-4AED-AA0D-4A33EC8B69D3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "auto report", "..\auto report\auto report.vdproj", "{177092A5-CF1F-49A6-BFEF-42C07CD158D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AA841F-4F2A-4AED-AA0D-4A33EC8B69D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AA841F-4F2A-4AED-AA0D-4A33EC8B69D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AA841F-4F2A-4AED-AA0D-4A33EC8B69D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AA841F-4F2A-4AED-AA0D-4A33EC8B69D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177092A5-CF1F-49A6-BFEF-42C07CD158D1}.Debug|Any CPU.ActiveCfg = Debug
+		{177092A5-CF1F-49A6-BFEF-42C07CD158D1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92220DB2-B2D3-4672-896C-1705BF1F423F}
+	EndGlobalSection
+EndGlobal

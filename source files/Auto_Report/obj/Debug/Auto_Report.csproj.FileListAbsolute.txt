@@ -1,0 +1,142 @@
+D:\Project_E\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Project_E\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Project_E\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Project_E\WindowsFormsApp1\obj\Debug\Auto_Report.csproj.AssemblyReference.cache
+D:\Project_E\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Project_E\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Project_E\WindowsFormsApp1\obj\Debug\Auto_Report.userControls.form_1.resources
+D:\Project_E\WindowsFormsApp1\obj\Debug\Auto_Report.csproj.GenerateResource.cache
+D:\Project_E\WindowsFormsApp1\obj\Debug\Auto_Report.csproj.CoreCompileInputs.cache
+D:\Project_E\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Project_E\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Project_E\WindowsFormsApp1\obj\Debug\Auto_Report.csproj.CopyComplete
+D:\Project_E\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\itextsharp.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\itextsharp.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\itext.commons.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\Project_E\WindowsFormsApp1\bin\Debug\itext.commons.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project_E\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\Project_E\Auto_Report\bin\Debug\WindowsFormsApp1.exe.config
+D:\Project_E\Auto_Report\bin\Debug\WindowsFormsApp1.exe
+D:\Project_E\Auto_Report\bin\Debug\WindowsFormsApp1.pdb
+D:\Project_E\Auto_Report\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project_E\Auto_Report\bin\Debug\itext.commons.dll
+D:\Project_E\Auto_Report\bin\Debug\itextsharp.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Project_E\Auto_Report\bin\Debug\Newtonsoft.Json.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Buffers.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Memory.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Numerics.Vectors.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project_E\Auto_Report\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project_E\Auto_Report\bin\Debug\System.ValueTuple.dll
+D:\Project_E\Auto_Report\bin\Debug\itext.commons.xml
+D:\Project_E\Auto_Report\bin\Debug\itextsharp.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Project_E\Auto_Report\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Project_E\Auto_Report\bin\Debug\Newtonsoft.Json.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Buffers.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Memory.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Numerics.Vectors.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project_E\Auto_Report\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project_E\Auto_Report\bin\Debug\System.ValueTuple.xml
+D:\Project_E\Auto_Report\obj\Debug\Auto_Report.csproj.AssemblyReference.cache
+D:\Project_E\Auto_Report\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Project_E\Auto_Report\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Project_E\Auto_Report\obj\Debug\Auto_Report.userControls.form_1.resources
+D:\Project_E\Auto_Report\obj\Debug\Auto_Report.csproj.GenerateResource.cache
+D:\Project_E\Auto_Report\obj\Debug\Auto_Report.csproj.CoreCompileInputs.cache
+D:\Project_E\Auto_Report\obj\Debug\Auto_Report.csproj.CopyComplete
+D:\Project_E\Auto_Report\obj\Debug\WindowsFormsApp1.exe
+D:\Project_E\Auto_Report\obj\Debug\WindowsFormsApp1.pdb
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\WindowsFormsApp1.exe.config
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\WindowsFormsApp1.exe
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\WindowsFormsApp1.pdb
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\BouncyCastle.Crypto.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\itext.commons.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\itextsharp.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Options.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Newtonsoft.Json.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Buffers.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Memory.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Numerics.Vectors.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.ValueTuple.dll
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\itext.commons.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\itextsharp.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Options.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\Newtonsoft.Json.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Buffers.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Memory.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Numerics.Vectors.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\bin\Debug\System.ValueTuple.xml
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.csproj.AssemblyReference.cache
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.userControls.form_1.resources
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.userControls.UserControl1.resources
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.csproj.GenerateResource.cache
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.csproj.CoreCompileInputs.cache
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\Auto_Report.csproj.CopyComplete
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\WindowsFormsApp1.exe
+E:\learnings, practices\c# practice\28 nov\Auto_Report\obj\Debug\WindowsFormsApp1.pdb
